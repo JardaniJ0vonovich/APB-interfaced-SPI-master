@@ -2,9 +2,6 @@
 
 A Verilog implementation of an **AMBA APB3 Interfaced SPI Master IP Core** developed as part of the **Maven Silicon VLSI Design Training Program**. The project implements an SPI Master with an APB3 slave interface, modular RTL architecture, and functional verification using a Verilog testbench.
 
-
-A Verilog implementation of an **AMBA APB3 Interfaced SPI Master IP Core** featuring a modular architecture, configurable baud-rate generation, and functional verification using a self-checking testbench.
-
 ---
 
 ## Overview
